@@ -85,9 +85,8 @@ export function Demo() {
         <p className="kicker">Demo</p>
         <h2>Try the rule with no wallet.</h2>
         <p className="deck">
-          Ada, Bao, and Cleo live only in this browser. This demo just swaps equal amounts. It does
-          not burn, pay a reward, or touch the live contract. On the live board, an equal match takes
-          1% from each side: half is burned and half goes to the matchmaker.
+          Ada, Bao, and Cleo live only in this browser. Play money only. It never touches the live
+          contract, but it shows the same 1% burn and matchmaker reward.
         </p>
       </div>
       <div className="product">
